@@ -1,2 +1,2 @@
-# data-driven-modelling
-Python implementations of Data-Driven Modelling &amp; Scientific Computation, J. Nathan Kutz, Oxford University Press, 2013
+# data-driven-modeling
+Python implementations of Data-Driven Modeling &amp; Scientific Computation, J. Nathan Kutz, Oxford University Press, 2013
