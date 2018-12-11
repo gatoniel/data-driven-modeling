@@ -21,4 +21,4 @@ module newton
 
     print(exptan(-4, absvalue=1e-5))
 
-end  # modul bisection
+end  # modul newton
